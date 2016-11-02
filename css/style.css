@@ -216,3 +216,12 @@ a:button:hover{
 		margin: 0 auto;
 	}
 }
+
+@media(max-width:468px){
+	.left-site-links li a{
+		font-size: 11px;
+	}
+	.right-site-links li a{
+		font-size:11px;
+	}
+}
